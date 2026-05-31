@@ -1,3 +1,0 @@
-/home/lucas/openRF/build/_deps/json-subbuild/CMakeFiles/json-populate.dir
-/home/lucas/openRF/build/_deps/json-subbuild/CMakeFiles/edit_cache.dir
-/home/lucas/openRF/build/_deps/json-subbuild/CMakeFiles/rebuild_cache.dir
