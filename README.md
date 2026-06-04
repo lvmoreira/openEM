@@ -13,6 +13,7 @@ A FDTD (Finite-Difference Time-Domain) solver was used.The time derivative was a
 ## Current State
 
 ![alt text](_docs/image.png)
+![alt text](_docs/showcase_terminal.png)
 
 # TODO
 - [ ] Implement antenna geometry on the solver

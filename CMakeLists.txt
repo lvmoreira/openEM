@@ -33,7 +33,7 @@ FetchContent_MakeAvailable(raylib)
 
 # 4. Build the solver 
 # (Removed src/glad.c because Raylib handles OpenGL extensions)
-add_executable(openEM src/main.cpp src/TUI.cpp src/Application.cpp src/graphics.cpp)
+add_executable(openEM src/main.cpp src/TUI.cpp src/graphics.cpp)
 
 # Include directories (assuming you have an include/ folder in your project)
 target_include_directories(openEM PRIVATE include/)
