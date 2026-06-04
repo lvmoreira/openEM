@@ -17,3 +17,4 @@ A FDTD (Finite-Difference Time-Domain) solver was used.The time derivative was a
 # TODO
 - [ ] Implement the solver
 - [ ] Include automatic meshing from sim_config.json parameters
+- [ ] Allow for importing .stl antenna files
