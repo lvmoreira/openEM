@@ -22,18 +22,18 @@ void terminal_interface(){
     std::cout << "===================================================== \n\n";
 }
 
-int json_parser(){
+json json_parser(){
     // Open json file and check for opening errors
     std::ifstream file("../simconfig.json");
     if(!file.is_open()){
         std::cerr << "Error: Could not open the JSON file.\n";
-        return 1;
+        return nullptr;
     }
 
     // Parse the JSON file using the nlohmann library
     json config;
     file >> config;
 
-    // Extract the simulation parameters and initialize necessary objects
-    return 0;
+    // return the config object
+    return config;
 }
