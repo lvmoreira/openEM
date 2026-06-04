@@ -1,5 +1,5 @@
 # openEM
-A terminal tool that intakes key parameters of an antenna and simulates the RF pattern using Maxwell's equations.
+A terminal tool that intakes key parameters of an antenna and simulates the RF pattern using Maxwell's equations. The graphics simulation was built using raylib.
 
 ## How to use openEM:
 - Define all the necessary simulation parameters in simconfig.json
