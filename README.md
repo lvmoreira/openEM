@@ -19,3 +19,4 @@ A FDTD (Finite-Difference Time-Domain) solver was used.The time derivative was a
 - [ ] Include automatic meshing from sim_config.json parameters for common antenna types
 - [ ] Allow for importing .stl antenna files
 - [ ] Include a way to easily define the feed location
+- [ ] (ADVANCED) Make a backwards processing algorithm: you input key parameters about the RP, and it designs an optimal antenna shape
